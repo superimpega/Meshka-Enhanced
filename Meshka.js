@@ -1,7 +1,7 @@
 // JavaScript Document
 //Room
 function addGlobalStyle(css){
-  var head, style;
+        var head, style;
 	head = document.getElementsByTagName('head')[0];
 	if(!head){
 		return;
