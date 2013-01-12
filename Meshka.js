@@ -292,9 +292,7 @@ function displayUI()
 		+ 	'<p id="plugbot-btn-queue" style="color:#F88017">auto-queue</p>'
 		+ 	'<p id="plugbot-btn-hidevideo" style="color:#F88017">hide video</p>'
 //		+ 	'<p id="plugbot-btn-userlist" style="color:#ED1C24">userlist</p>'
-		+ 	'<p id="plugbot-btn-facebook" style="color:#ED1C24"><a style="color: #F88017" href="http://www.facebook.com/groups/315391008573898/" target="_blank">facebook</a></p>'
-		+ 	'<p id="plugbot-btn-youtube" style="color:#ED1C24"><a style="color: #F88017" href="http://www.youtube.com/user/knifepartyhd/videos" target="_blank">Teks youtube</a></p>'
-		+ 	'<h2 id="plugbot-btn-minecraft" style="color:#F88017"> <a style="color:#3FFF00">Supers Minecraft Server </a> </br> Server Status: <a style="color:#3FFF00"> Online </a> </br> Server Ip: <a style="color:#3FFF00"> mc.sspvp.com</a></h2>'
+		+ 	'<h2 id="plugbot-btn-minecraft" style="color:#F88017"> <a style="color:#3FFF00">Our Minecraft Server </a> </br> Server Status: <a style="color:#3FFF00"> Online </a> </br> Server Ip: <a style="color:#3FFF00"> 173.208.222.170:25652</a></h2>'
     );
 }
 
