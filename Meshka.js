@@ -139,7 +139,7 @@ for(var i=0,l=texts.snapshotLength; (this_text=texts.snapshotItem(i)); i++) {
 /**
  * Whether the user has currently enabled auto-woot. 
  */
-var autowoot = true;
+var autowoot = false;
 /**
  * Whether the user has currently enabled auto-queueing. 
  */
